@@ -1,0 +1,5 @@
+
+.galleria{
+  display:flex;  
+  flex-wrap: wrap;
+}
